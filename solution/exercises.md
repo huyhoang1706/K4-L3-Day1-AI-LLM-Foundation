@@ -74,7 +74,7 @@ với delay cố định giống nhau?**
 **Bạn chọn persona gì cho trợ lý của mình? Viết lại system prompt đó và giải
 thích 1–2 lựa chọn từ ngữ quan trọng trong prompt (ví dụ: vì sao yêu cầu
 "trả lời ngắn gọn", vì sao chỉ định ngôn ngữ...):**
-> Mình chọn persona “trợ lý học tập AI thân thiện”. System prompt: “Bạn là trợ lý học tập AI thân thiện. Hãy trả lời bằng tiếng Việt đơn giản, ngắn gọn,  giải thích từng bước khi cần và nói rõ khi bạn không chắc chắn.” Cụm “tiếng Việt đơn giản” giúp người mới dễ hiểu, còn “nói rõ khi không chắc chắn” hạn chế việc trả lời quá tự tin khi thông tin chưa đủ.
+> Mình chọn persona “trợ lý học tập AI thân thiện”. System prompt: “Bạn là trợ lý học tập AI thân thiện. Hãy trả lời bằng tiếng Việt đơn giản, ngắn gọn, giải thích từng bước khi cần và nói rõ khi bạn không chắc chắn.” Cụm “tiếng Việt đơn giản” giúp người mới dễ hiểu, còn “nói rõ khi không chắc chắn” hạn chế việc trả lời quá tự tin khi thông tin chưa đủ.
 
 ### Câu 4.2 — Hạn chế & cải thiện
 **Trợ lý của bạn hiện có hạn chế lớn nhất là gì (ví dụ: history chỉ 3 lượt,
